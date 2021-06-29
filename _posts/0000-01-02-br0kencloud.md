@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Poetry"
 Use the left arrow to go back!_posts/0000-01-02-br0kencloud.md_posts/0000-01-02-br0kencloud.md_posts/0000-01-02-br0kencloud.md
